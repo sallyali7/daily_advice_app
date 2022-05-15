@@ -10,7 +10,7 @@
   flex-direction: column;
   justify-content: center;
   height: 100vh;
-  background-color: #293242;
+  background-color: #1f2636;
 }
 
 .advicecard{
@@ -21,21 +21,21 @@
   width: 50%;
   min-width: 300px;
   max-width: 600px;
-  background-color:  #48556A;
-  border: #48556A 1px solid;
+  background-color:  #434e5c;
+  border: #434e5c 1px solid;
   border-radius: 15px;
   text-align: center;
   padding: 30px;
 }
 .advicenumber{
-  background-color: #48556A;
+  background-color: #434e5c;
   font-size: 10px;
   padding-bottom: 5%;
   letter-spacing: 2px;
-  color: #66ff99;
+  color: #53ffab;
 }
 .advice{
-  background-color: #48556A;
+  background-color: #434e5c;
   font-size: 20px;
   padding-bottom: 5%;
   color: white;
@@ -46,10 +46,10 @@ button {
   height: 50px;
   border-radius: 60%;
   border: none;
-  background-color: #66ff99;
+  background-color: #6ed3a9;
   transform: translate(0%, 100%);
 }
 button:hover{
-  box-shadow: 0px 0px 15px 5px  #66ff33;
-  background-color:  #66ff33;
+  box-shadow: 0px 0px 15px 5px  #53ffab;
+  background-color:  #53ffab;
 }
