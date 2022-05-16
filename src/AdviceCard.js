@@ -12,7 +12,7 @@ function AdviceCard({ advice }) {
     <section className="advicecard">
       <h1 className='advicenumber'>ADVICE #{advice.id}</h1>
       <p className='advice' >&quot;{advice.advice}&quot;</p>
-      <img src={dividerdesktop} srcSet={dividermobile} media="(max-width: 500px)" alt="page divider" className="divider"/>
+      <img src={dividerdesktop} srcSet={dividermobile} media="(max-width: 400px)" alt="page divider" className="divider"/>
       <button className='advicebutton' onClick={reload}>
         <img src={dice} alt="dice symbol" />
       </button>
