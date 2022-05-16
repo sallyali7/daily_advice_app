@@ -29,7 +29,7 @@ Active state
 ### Links
 
 - Solution URL: [https://github.com/sallyali7/daily_advice_app](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://frabjous-lily-4d6b8b.netlify.app)
 
 ### Built with
 
